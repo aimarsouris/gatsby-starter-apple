@@ -2,7 +2,7 @@ repo_name: aimarsouris/gatsby-starter-apple
 report_id: a16b018256983e2a4ff68decfe9f4157
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-31T09:40:58+00:00'
+timestamp: '2024-02-29T19:44:27+00:00'
 requested_by: aimarsouris
 provider: github
 branch: main
@@ -106,7 +106,7 @@ tools:
   detection_source_url: https://github.com/aimarsouris/gatsby-starter-apple
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.7.1
   license: MIT
